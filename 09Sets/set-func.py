@@ -1,0 +1,18 @@
+myset = {'apple', 'banana', 'cherry'}
+
+print(myset)
+print(len(myset))
+print(f'Is "banana" in the set? {"banana" in myset}')
+print(f'Is "orange" in the set? {"orange" in myset}')
+print(f'Adding "orange" to the set.')
+myset.add('orange')
+print(myset)
+print(f'Removing "banana" from the set.')
+myset.remove('banana')
+print(myset)
+print(f'Length of the set: {len(myset)}')
+print(f'Clearing the set.')
+myset.clear()
+print(myset)
+print(f'Is the set empty? (len(myset) == 0)')
+print(f'Is the set empty? {len(myset) == 0}')
