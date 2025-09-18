@@ -1,6 +1,5 @@
-# ==============================================================
-#  Python Data Structures & Algorithms (DSA) Repository
-# ==============================================================
+##  Python Data Structures & Algorithms (DSA) Repository
+
 # Author: Ayush Trivedi
 # GitHub: https://github.com/trivediayush
 # Language: Python 3.x
@@ -8,10 +7,7 @@
 #   This repository contains my Python implementations of 
 #   standard Data Structures and Algorithms. It serves as a 
 #   learning log, problem-solving record, and portfolio.
-# ==============================================================
-
-# 📚 Python DSA Repository
-# =======================
+#
 
 # 🛠 Features:
 #   - Arrays, Linked Lists, Stacks, Queues
@@ -44,6 +40,4 @@
 # 📜 License:
 #   MIT License - Open Source
 
-# ==============================================================
 #          Thank you for checking out my repository!
-# ==============================================================
