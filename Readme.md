@@ -22,16 +22,16 @@
   3. Maintain a professional code portfolio
 
 # 📌 Usage:
-  # Clone the repo
-  git clone https://github.com/trivediayush/Python-DSA.git
+  - Clone the repo
+  `git clone https://github.com/trivediayush/Python-DSA.git`
 
-  # Run Python examples
-  python3 Arrays/example.py
+  - Run Python examples
+  `python3 example.py`
 
 # 🤝 Contribution:
-   Fork the repository, submit pull requests, and provide constructive feedback.
+   - Fork the repository, submit pull requests, and provide constructive feedback.
 
 # 📜 License:
-  MIT License - Open Source
+  - MIT License - Open Source
 
-#          Thank you for checking out my repository!
+Thank you💖 for checking out my repository!
